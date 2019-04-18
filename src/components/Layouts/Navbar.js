@@ -7,7 +7,7 @@ const Navbar = () => {
     return (
         <nav className="navbar wrapper purple accent-2">
             <div className="container">
-                <Link to='/' className='brand-logo'>Hart Attack</Link>
+                <Link to='/' className='brand-logo'>Redux Firebase Test</Link>
                 <SignedInLinks />
                 <SignedOutLinks />
             </div>

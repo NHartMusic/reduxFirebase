@@ -1,5 +1,3 @@
-import { SSL_OP_NO_TICKET } from "constants";
-
 export const createProject = (project) => {
     return (dispatch, getState, { getFirebase, getFirestore }) => {
         //async call to database

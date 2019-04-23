@@ -6,7 +6,7 @@
     "firebase": "^5.10.0",
     "react": "next",
     "react-dom": "next",
-    "react-redux": "^7.0.2",
+    "react-redux": "^5.1.1",
     "react-redux-firebase": "^2.2.6",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4",

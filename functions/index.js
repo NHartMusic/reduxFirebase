@@ -38,7 +38,7 @@ exports.userJoined = functions.auth.user()
 
                 const newUser = doc.data()
                 const notification = {
-                    content: 'Is Ready to Turn Up',
+                    content: ' Is Ready to Turn Up',
                     user: `${newUser.firstName} ${newUser.lastName}`,
                     time: admin.firestore.FieldValue.serverTimestamp()
                 }

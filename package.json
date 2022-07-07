@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "firebase": "^5.10.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "next",
     "react-dom": "next",
     "react-redux": "^5.1.1",
